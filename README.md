@@ -8,7 +8,7 @@
 
 ♟️ **Ajedrecista**
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fjab9814.github.io%2F)
+<!--![Website](https://img.shields.io/website?url=https%3A%2F%2Fjab9814.github.io%2F)-->
 
 ## :chart_with_upwards_trend: Actividades Recientes 
 <!--RECENT_ACTIVITY:start-->
