@@ -1,0 +1,6 @@
+# .github/recent-activity.config.yml
+include:
+  - PRs
+  - Issues
+exclude:
+  - Forks
