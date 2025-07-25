@@ -1,4 +1,10 @@
-## Hi there 👋
+## :octocat: Hola. Soy Jose 👋
+
+:zap: **Ingeniero Electricista**
+:computer: **Backend Developer Python** :snake:
+:performing_arts: **Data Collector**
+♟️ **Ajedrecista**
+
 
 <!--
 **jab9814/jab9814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
