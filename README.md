@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hola. Soy Jose 👋
+
+:zap: **Ingeniero Electricista**
+
+:computer: **Backend Developer Python** :snake:
+
+🌐🔍 **Data Collector** 🕸️🕷
+
+♟️ **Ajedrecista**
+
+## :chart_with_upwards_trend: Actividades Recientes 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **jab9814/jab9814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
