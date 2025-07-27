@@ -12,11 +12,11 @@
 
 ## :chart_with_upwards_trend: Actividades Recientes 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jab9814/jab9814](https://github.com/jab9814/jab9814)<br>
-2. ⬆️ Pushed 5 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-3. 🎉 Merged PR [#4](https://github.com/jab9814/webscraping_projects/pull/4) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-4. 💪 Opened PR [#4](https://github.com/jab9814/webscraping_projects/pull/4) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-5. ⬆️ Pushed 2 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+1. ⬆️ Pushed 1 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+2. ⬆️ Pushed 1 commit(s) to [jab9814/jab9814](https://github.com/jab9814/jab9814)<br>
+3. ⬆️ Pushed 5 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+4. 🎉 Merged PR [#4](https://github.com/jab9814/webscraping_projects/pull/4) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+5. 💪 Opened PR [#4](https://github.com/jab9814/webscraping_projects/pull/4) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
