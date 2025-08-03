@@ -12,11 +12,11 @@
 
 ## :chart_with_upwards_trend: Actividades Recientes 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-2. 🎉 Merged PR [#7](https://github.com/jab9814/webscraping_projects/pull/7) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-3. 💪 Opened PR [#7](https://github.com/jab9814/webscraping_projects/pull/7) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-4. ⬆️ Pushed 2 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-5. 🎉 Merged PR [#6](https://github.com/jab9814/webscraping_projects/pull/6) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+1. ⬆️ Pushed 2 commit(s) to [jab9814/control_de_cobro_con_fastapi](https://github.com/jab9814/control_de_cobro_con_fastapi)<br>
+2. 🎉 Merged PR [#7](https://github.com/jab9814/control_de_cobro_con_fastapi/pull/7) in [jab9814/control_de_cobro_con_fastapi](https://github.com/jab9814/control_de_cobro_con_fastapi)<br>
+3. 💪 Opened PR [#7](https://github.com/jab9814/control_de_cobro_con_fastapi/pull/7) in [jab9814/control_de_cobro_con_fastapi](https://github.com/jab9814/control_de_cobro_con_fastapi)<br>
+4. ⬆️ Pushed 7 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
+5. 🎉 Merged PR [#7](https://github.com/jab9814/webscraping_projects/pull/7) in [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
