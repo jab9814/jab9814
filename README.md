@@ -15,8 +15,6 @@
 1. ⬆️ Pushed 2 commit(s) to [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
 2. 🎉 Merged PR [#2](https://github.com/migherize/webscraping-rentals-spain/pull/2) in [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
 3. 💪 Opened PR [#2](https://github.com/migherize/webscraping-rentals-spain/pull/2) in [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
-4. ⬆️ Pushed 1 commit(s) to [jab9814/webscraping_projects](https://github.com/jab9814/webscraping_projects)<br>
-5. ⬆️ Pushed 2 commit(s) to [jab9814/control_de_cobro_con_fastapi](https://github.com/jab9814/control_de_cobro_con_fastapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
