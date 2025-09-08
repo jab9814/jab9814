@@ -12,9 +12,8 @@
 
 ## :chart_with_upwards_trend: Actividades Recientes 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
-2. 🎉 Merged PR [#2](https://github.com/migherize/webscraping-rentals-spain/pull/2) in [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
-3. 💪 Opened PR [#2](https://github.com/migherize/webscraping-rentals-spain/pull/2) in [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
+1. ⬆️ Pushed undefined commit(s) to [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
+2. 💪 Opened PR [#2](undefined) in [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
