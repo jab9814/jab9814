@@ -12,7 +12,6 @@
 
 ## :chart_with_upwards_trend: Actividades Recientes 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [migherize/webscraping-rentals-spain](https://github.com/migherize/webscraping-rentals-spain)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
