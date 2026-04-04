@@ -11,7 +11,14 @@
 <!--![Website](https://img.shields.io/website?url=https%3A%2F%2Fjab9814.github.io%2F)-->
 
 ## :chart_with_upwards_trend: Actividades Recientes 
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 <!--RECENT_ACTIVITY:start-->
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--
